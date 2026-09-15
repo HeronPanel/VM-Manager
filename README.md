@@ -42,10 +42,3 @@ Sign up on Cloudflare for DNS & SSL setup:
 Your Google IDX VM + Pterodactyl Panel is now installed.
 
 ---
-
-Credit all these guys!:
-
-* HopingBoiyz
-* Jishnu
-* NotGamerPie
-### Thanks!
